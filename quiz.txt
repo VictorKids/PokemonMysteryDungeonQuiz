@@ -1,0 +1,11 @@
+10
+Você normalmente está atrasado para seus compromissos? # Sempre # Nunca # Às vezes # Raramente #0,0,0,0,-2,0#0,0,0,0,2,0#0,0,0,0,-1,0#0,0,0,0,1,0# 
+Você iria a uma casa mal-assombrada embusca de algo perdido? # Tranquilamente # De forma alguma # Somente com mais alguém # Sim, apesar do medo #0,1,0,0,-1,1#0,-2,0,0,1,0#0,-1,0,1,1,0#0,1,0,0,0,1#
+Em uma grande festa, quem é você? # A estrela principal # O garçom # O quieto # Quem vai embora cedo #0,1,0,2,0,2#1,0,0,0,1,-1#0,-1,0,-1,-2,0,-1#0,0,0,-2,0,-1#
+Você se mete em muitas brigas? # Sempre que estou certo # Depende com quem # Mas que tal o diálogo.. # Adoro treta #0,1,-1,0,-1,1#0,-1,0,1,1,0#1,0,1,0,1,-1#-1,1,0,-1,-1,0#
+Seu amigo faz uma piada sem graça, o que você faz? # Digo que não teve graça # Começo a rir # Mudo o assunto rapidamente # Complemento a piada #-1,0,0,0,-1,0#2,1,0,0,1,-1#0,0,1,1,0,0#0,0,1,1,0,1#
+Hoje tem prova e você se esqueceu... # Fui bem mesmo assim # Colei # Me lasquei # Coincidentemente passei mal #0,0,2,0,0,0#0,1,0,0,1,0#0,0,-2,0,-1,0#0,1,1,0,0,1#
+Uma criança tropeçou e caiu no chão, o que você faz? # Começa a rir # Ajuda ela a se levantar # Procura o responsável por ela # Ignora #-1,0,0,0,0,0#2,0,0,0,1,0#1,0,1,0,1,0#-2,0,0,-1,0,0#
+Você encontrou um baú do tesouro, sua primeira reação é? # Tento abrir ele # E se for uma armadilha? # Procuro uma chave # Enterro o tesouro #0,2,0,0,-1,0#0,-1,1,0,0,0#0,0,2,0,0,0#0,0,0,0,2,0#
+Você ganhou na loterial, o que você faz com o dinheiro? # Gasto boa parte em uma festa # Guardo boa parte # Doo boa parte # Foco nos meus gastos pessoais #0,0,-2,2,-2,1#-1,0,2,0,2,0#2,1,0,1,0,0#0,0,0,0,1,0#
+Qual seu maior defeito? # Sou muito sincero # Gosto de ver o circo pegar fogo # Eu não sei perder # Sou muito complacente #1,0,0,-1,-1,0#-1,0,0,0,0,1#0,0,0,-1,0,-1#2,-1,0,0,0,-1#
